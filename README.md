@@ -1,4 +1,4 @@
-# GETconf 2019 Code of Conduct
+# GETconf 2020 Code of Conduct
 GETconf is dedicated to providing a harassment-free experience for everyone; regardless of gender identity and/or expression, sexual orientation, ability status, physical appearance, race, age or religion. We do not tolerate harassment of conference participants in any form.
 ### [Core Values](#core-values)
 - We are a community and series of events created by and centering women, femmes, and gender-expansive individuals
